@@ -1,0 +1,22 @@
+div.jumbotron.hero-nature {
+  color: #e0190c;
+  text-align: center;
+  background: url('../../assets/img/back.png');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  color: #000000;
+}
+
